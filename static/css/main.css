@@ -1068,3 +1068,19 @@ body {
 
 ::-webkit-scrollbar-thumb:hover {
   background: #dc3545; }
+
+
+.works {
+  text-decoration:none;
+  color:white;
+}
+
+.works:hover {
+  text-decoration:none;
+  color:white;
+}
+
+.technology-icon {
+  color:#C321C3;
+  font-size:40px;"
+}
